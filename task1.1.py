@@ -45,13 +45,13 @@ while True:
 
         
     if user == "add":
-        print (f" {add (num1 , num2)}")
+        print  (num1 , num2)
     elif user == "subtraction":
-        print ({subtraction(num1 , num2)})
+        print ({(num1 , num2)})
     elif user == "multiplication":
-        print ({multiplication (num1 , num2 )})
+        print ({(num1 , num2 )})
     elif user == "division ":
-        print ({davidson (num1 , num2)})
+        print ({ (num1 , num2)})
     else:
         print ("error!")
             
